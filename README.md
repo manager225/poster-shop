@@ -1,6 +1,6 @@
 # Vue.js Poster Shop
 
-[Imgur](https://i.imgur.com/q0XCkwR.png)
+## ![Imgur](https://i.imgur.com/q0XCkwR.png)
 
 #### Demo
 
